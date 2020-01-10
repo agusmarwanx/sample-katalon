@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Positive - Get Data Search</name>
+   <tag>getdata</tag>
+   <comment></comment>
+   <testCaseGuid>da2c97ee-e1e4-4356-81d3-a7b56db694ab</testCaseGuid>
+</TestCaseEntity>
